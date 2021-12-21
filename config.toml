@@ -3,10 +3,10 @@ baseURL = "https://llybxy.github.io/"
 #baseURL = "https://airbone4.github.io/class_web" #https://xxx.github.io/xxx
 pygmentsUseClasses = true
 languageCode = "en-us"
-title = "Learn Javascript"
+title = "Bii"
 relativeurls = true
 publishDir = "docs"
-author = "lendjwjcen"
+author = "llybxy"
 enableGitInfo = false
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$",  "_cache$","README","~.*"]
